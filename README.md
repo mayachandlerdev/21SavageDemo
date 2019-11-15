@@ -4,4 +4,4 @@ In this application, I'm working with the client and server side, providing the 
 
 You can add a note, upvote it, downvote it and even delete it!
 
-![alt text](http://url/to/https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimg.talkandroid.com%2Fuploads%2F2013%2F09%2Fnote_taking_header.jpg&f=1&nofb=1)
+![img](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimg.talkandroid.com%2Fuploads%2F2013%2F09%2Fnote_taking_header.jpg&f=1&nofb=1)
